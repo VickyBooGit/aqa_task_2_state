@@ -10,8 +10,8 @@ public class Main {
         CashbackHackService hack1 = new CashbackHackService();
         System.out.println(hack1.remain(900));
         System.out.println(hack1.remain(1000));
-        System.out.println(hack1.remain(-200));
-        System.out.println(hack1.remain(2000));
+//        System.out.println(hack1.remain(-200));
+//        System.out.println(hack1.remain(2000));
 
 
         CartService service = new CartService();
